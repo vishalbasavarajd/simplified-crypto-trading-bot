@@ -1,0 +1,49 @@
+2026-01-05 00:51:32,377 - INFO - Mock Binance Futures Bot Initialized
+2026-01-05 00:51:32,538 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-05 00:51:32,538 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-05 00:51:32,541 - INFO -  * Restarting with stat
+2026-01-05 00:51:33,335 - INFO - Mock Binance Futures Bot Initialized
+2026-01-05 00:51:33,376 - WARNING -  * Debugger is active!
+2026-01-05 00:51:33,382 - INFO -  * Debugger PIN: 132-037-299
+2026-01-05 00:55:10,914 - INFO -  * Detected change in 'C:\\Users\\Lenovo\\trading-bot\\app.py', reloading
+2026-01-05 00:55:11,019 - INFO -  * Restarting with stat
+2026-01-05 00:55:13,600 - INFO - Mock Binance Futures Bot Initialized
+2026-01-05 00:55:13,645 - WARNING -  * Debugger is active!
+2026-01-05 00:55:13,656 - INFO -  * Debugger PIN: 132-037-299
+2026-01-05 00:55:29,380 - INFO - 127.0.0.1 - - [05/Jan/2026 00:55:29] "GET / HTTP/1.1" 200 -
+2026-01-05 00:55:29,521 - INFO - 127.0.0.1 - - [05/Jan/2026 00:55:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-05 00:57:39,749 - INFO - Placing MARKET order | BTCUSDT | BUY | 0.01
+2026-01-05 00:57:39,755 - INFO - 127.0.0.1 - - [05/Jan/2026 00:57:39] "POST / HTTP/1.1" 200 -
+2026-01-05 00:59:07,908 - INFO - Placing LIMIT order | BTCUSDT | SELL | 0.03 @ 11.0
+2026-01-05 00:59:07,924 - INFO - 127.0.0.1 - - [05/Jan/2026 00:59:07] "POST / HTTP/1.1" 200 -
+2026-01-05 00:59:23,545 - INFO - Placing MARKET order | BTCUSDT | BUY | 6.0
+2026-01-05 00:59:23,551 - INFO - 127.0.0.1 - - [05/Jan/2026 00:59:23] "POST / HTTP/1.1" 200 -
+2026-01-05 01:00:12,544 - INFO - Placing LIMIT order | BTCUSDT | SELL | 0.01 @ 45000.0
+2026-01-05 01:00:12,549 - INFO - 127.0.0.1 - - [05/Jan/2026 01:00:12] "POST / HTTP/1.1" 200 -
+2026-01-05 01:00:46,195 - INFO - 127.0.0.1 - - [05/Jan/2026 01:00:46] "GET / HTTP/1.1" 200 -
+2026-01-05 01:00:47,268 - INFO - 127.0.0.1 - - [05/Jan/2026 01:00:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-05 01:01:06,363 - INFO - Placing MARKET order | BTCUSDT | BUY | 0.02
+2026-01-05 01:01:06,368 - INFO - 127.0.0.1 - - [05/Jan/2026 01:01:06] "POST / HTTP/1.1" 200 -
+2026-01-05 01:05:26,263 - INFO -  * Detected change in 'C:\\Users\\Lenovo\\trading-bot\\app.py', reloading
+2026-01-05 01:05:26,413 - INFO -  * Restarting with stat
+2026-01-05 01:05:41,496 - INFO - Mock Binance Futures Bot Initialized
+2026-01-05 01:05:41,641 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-05 01:05:41,641 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-05 01:05:41,651 - INFO -  * Restarting with stat
+2026-01-05 01:05:42,432 - INFO - Mock Binance Futures Bot Initialized
+2026-01-05 01:05:42,481 - WARNING -  * Debugger is active!
+2026-01-05 01:05:42,491 - INFO -  * Debugger PIN: 132-037-299
+2026-01-05 01:05:56,441 - INFO - 127.0.0.1 - - [05/Jan/2026 01:05:56] "GET / HTTP/1.1" 200 -
+2026-01-05 01:05:57,242 - INFO - 127.0.0.1 - - [05/Jan/2026 01:05:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-05 01:06:25,128 - INFO - Placing MARKET order | BTCUSDT | BUY | 0.02
+2026-01-05 01:06:25,139 - INFO - 127.0.0.1 - - [05/Jan/2026 01:06:25] "POST / HTTP/1.1" 200 -
+2026-01-05 01:07:00,650 - INFO - Placing LIMIT order | BTCUSDT | SELL | 0.02 @ 45000.0
+2026-01-05 01:07:00,667 - INFO - 127.0.0.1 - - [05/Jan/2026 01:07:00] "POST / HTTP/1.1" 200 -
+2026-01-05 01:10:43,999 - INFO - 127.0.0.1 - - [05/Jan/2026 01:10:43] "GET / HTTP/1.1" 200 -
+2026-01-05 01:10:48,767 - INFO - 127.0.0.1 - - [05/Jan/2026 01:10:48] "GET / HTTP/1.1" 200 -
+2026-01-05 01:10:53,964 - INFO - Placing MARKET order | BTCUSDT | BUY | 0.02
+2026-01-05 01:10:53,994 - INFO - 127.0.0.1 - - [05/Jan/2026 01:10:53] "POST / HTTP/1.1" 200 -
+2026-01-05 01:10:59,406 - INFO - Placing MARKET order | BTCUSDT | SELL | 0.02
+2026-01-05 01:10:59,419 - INFO - 127.0.0.1 - - [05/Jan/2026 01:10:59] "POST / HTTP/1.1" 200 -
